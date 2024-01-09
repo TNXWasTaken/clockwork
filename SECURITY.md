@@ -1,6 +1,6 @@
 # Security Policy
 
-Only the latest beta version is supported. As of writing, this is 2.0.0.0-beta15.
+Only the latest beta version is supported. As of writing, this is 2.0.0.0-beta15.2.
 
 ## Reporting a Vulnerability
 
